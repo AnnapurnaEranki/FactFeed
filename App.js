@@ -46,7 +46,7 @@ function App() {
       <header className="header">
         <div className="logo">
           <img src="logo.png" height="40" width="60" alt="logo" />
-          <h1>Today I Learned</h1>
+          <h1>Fact Feed</h1>
         </div>
         <button
           className="btn btn-large btn-open"
